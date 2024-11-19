@@ -10,7 +10,7 @@ require (
 require (
 	github.com/ava-labs/awm-relayer v1.4.1-0.20241114185359-5cd5a982832d
 	github.com/ava-labs/subnet-evm v0.6.12-rc.0
-	github.com/ethereum/go-ethereum v1.13.14
+	github.com/ethereum/go-ethereum v1.13.15
 	github.com/onsi/ginkgo/v2 v2.21.0
 	github.com/onsi/gomega v1.35.1
 	github.com/pkg/errors v0.9.1
